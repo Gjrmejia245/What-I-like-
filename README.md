@@ -4,7 +4,7 @@
 <html>
 <body>
 
-<h2>Image Size samll
+<h2>Image Size small
 </h2>
 
 <p>Here we use the style attribute to specify the width and height of an image:</p>
